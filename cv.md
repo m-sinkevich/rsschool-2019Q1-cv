@@ -18,7 +18,7 @@
 - Experience in GWT
 
 ### `SKILLS` ###
-
+*****************************************
 - **Programming languages**: Java, SQL, JavaScript, HTML+CSS, ActionScript, MXML
 - **Frameworks/APIs**:		     Hibernate,  JDBC, JSP/Servlets, Ibatis
 - **Web/App. Servers**:	    	Tomcat, JBoss,IBM WebSphere 6,7, WebLogic
@@ -31,11 +31,12 @@
 
 ### `WORK EXPERIENCE` ###
 **************************************************
-- `Sep, 2001 - Mar, 2004`  "BELAVIA", *system administrator*
-- `Mar, 2004 - Nov, 2007` "East European Parts", *head of IT department*
-- `Jan 2008 - Oct 2012` "EPAM Systems", *software developer*
-- `Aug 2013 -  Apr 2016` "CCS", *software developer*
-- `Jun 2018 - now "AGM` Soft", *software developer*
+- `Sep, 2001 - Mar, 2004`  **"BELAVIA"**, *system administrator*
+- `Mar, 2004 - Nov, 2007`**"East European Parts"**, *head of IT department*
+- `Jan 2008 - Oct 2012`**"EPAM Systems"**, *software developer*
+- `Aug 2013 -  Apr 2016` **"CCS"**, *software developer*
+- `Jun 2018 - now` **"AGM Soft"**, *software developer*
+
 ### `EDUCATION` ###
 ***********************************
 ```sh
@@ -54,6 +55,7 @@
 ```
 ```sh
 2008 Java RD Training
+
 ```
 ### `LANGUAGES` ###
 ****************

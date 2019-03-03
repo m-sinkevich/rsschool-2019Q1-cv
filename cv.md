@@ -7,7 +7,7 @@
  
 ### `SUMMARY` ###
 *************************
-> I have been programming for about 10 years and I am interested in learning something new in this field. Now I am attracted to the Front-end because I like the visual component, the ability to do beautifully and see the results of my work.
+> I have been programming for about 10 years and I am interested in learning something new in this field. Now I am attracted to Front-end because I like visual component, the possibility to make something beautiful and see the results of my work.
 
 - Strong knowledge of Java with development experience for about 10 years
 - Knowledge of design patterns and refactoring concepts
@@ -63,4 +63,4 @@
 ****************
 **English - A2**
 
-*It's easy for me to speaking English. Wrong one, but easy*
+*It’s easy for me to speak English freely. Wrong, but freely*
